@@ -1,0 +1,1 @@
+from .musicstream_iterator import mstream_iterator
